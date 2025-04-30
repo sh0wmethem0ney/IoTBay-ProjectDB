@@ -1,0 +1,52 @@
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.UpdaterFrame <clinit>
+정보: Entering updater.jar .................................................................... 
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: 780: Unpacking org-netbeans-modules-nbjavac.nbm
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac.xml to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\config\Modules\org-netbeans-modules-nbjavac.xml
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac.nbm:netbeans/modules/org-netbeans-modules-nbjavac.jar to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\org-netbeans-modules-nbjavac.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac.nbm deleted.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.XMLUtil write
+정보: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@3f691c24
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.UpdateTracking$Module write
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update_tracking\org-netbeans-modules-nbjavac.xml modified.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: 780: Unpacking org-netbeans-modules-nbjavac-impl.nbm
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-impl.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac-impl.xml to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\config\Modules\org-netbeans-modules-nbjavac-impl.xml
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: 810: Downloading C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\ext\nb-javac-13-impl.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied external file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-impl.nbm.cf98e8ea to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\ext\nb-javac-13-impl.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-impl.nbm.cf98e8ea deleted.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-impl.nbm:netbeans/modules/org-netbeans-modules-nbjavac-impl.jar to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\org-netbeans-modules-nbjavac-impl.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-impl.nbm deleted.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.XMLUtil write
+정보: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@aac79d3
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.UpdateTracking$Module write
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update_tracking\org-netbeans-modules-nbjavac-impl.xml modified.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: 780: Unpacking org-netbeans-modules-nbjavac-api.nbm
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-api.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac-api.xml to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\config\Modules\org-netbeans-modules-nbjavac-api.xml
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: 810: Downloading C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\ext\nb-javac-13-api.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied external file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-api.nbm.1f073bd8 to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\ext\nb-javac-13-api.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-api.nbm.1f073bd8 deleted.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: Copied file C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-api.nbm:netbeans/modules/org-netbeans-modules-nbjavac-api.jar to C:\Users\lemon\AppData\Roaming\NetBeans\12.0\modules\org-netbeans-modules-nbjavac-api.jar
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.ModuleUpdater unpack
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\org-netbeans-modules-nbjavac-api.nbm deleted.
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.XMLUtil write
+정보: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@17681fb7
+4월 01, 2025 4:59:46 오후 org.netbeans.updater.UpdateTracking$Module write
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update_tracking\org-netbeans-modules-nbjavac-api.xml modified.
+4월 01, 2025 4:59:48 오후 org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+정보: File C:\Users\lemon\AppData\Roaming\NetBeans\12.0\update\download\additional_information.xml deleted.

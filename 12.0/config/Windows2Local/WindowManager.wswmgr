@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<windowmanager version="2.1">
+    <main-window>
+  <joined-properties
+   x="-7"
+   y="0"
+   width="1294"
+   height="1407"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   maximize-if-width-below="0"
+   maximize-if-height-below="0"
+   frame-state="0"
+/>
+  <separated-properties
+   x="256"
+   y="140"
+   width="2048"
+   height="112"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   frame-state="0"
+/>
+  </main-window>
+    <editor-area state="joined" frame-state="0">
+  <constraints>
+  <path orientation="horizontal" number="60" weight="0.6729559748427673" />
+  <path orientation="vertical" number="40" weight="0.7" />
+  <path orientation="horizontal" number="40" weight="0.7" />
+  <path orientation="vertical" number="40" weight="0.5" />
+  </constraints>
+  <bounds x="844" y="336" width="1075" height="616" />
+    </editor-area>
+    <screen width="2560" height="1440"/>
+    <active-mode name="editor"/>
+    <toolbar configuration="Standard" preferred-icon-size="24"/>
+    <tc-list>
+  <tc-id id="projectTabLogical_tc"/>
+  <tc-id id="Welcome"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC6xt#002Ehistory#007C_6"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC8xt#002Ehistory#007C_8"/>
+  <tc-id id="MultiView-java#002Eso888FB98t#002Ehistory#007C_19"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC5xt#002Ehistory#007C_5"/>
+  <tc-id id="MultiView-java#002Eso888FB95t#002Ehistory#007C_16"/>
+  <tc-id id="MultiView-java#002Eso888FB97t#002Ehistory#007C_18"/>
+  <tc-id id="MultiView-java#002Eso888FB94t#002Ehistory#007C_15"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC7xt#002Ehistory#007C_7"/>
+  <tc-id id="MultiView-java#002Eso888FB96t#002Ehistory#007C_17"/>
+  <tc-id id="MultiView-jsp#002EsouF4549770t#002Ehistory#007C_11"/>
+  <tc-id id="output"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC9xt#002Ehistory#007C_9"/>
+  <tc-id id="MultiView-css#002Esou232CA76Ftext#002Ehistory#007C"/>
+  <tc-id id="org#002EnetbeansCE03D77age#002EImageViewer_1"/>
+  <tc-id id="org#002EnetbeansB45BDF05image#002EImageViewer"/>
+  <tc-id id="MultiView-jsp#002EsouF454976Ft#002Ehistory#007C_10"/>
+  <tc-id id="MultiView-jsp#002Esou312C04E9xt#002Ehistory#007C_9"/>
+  <tc-id id="MultiView-jsp#002Esou312C04E8xt#002Ehistory#007C_8"/>
+  <tc-id id="MultiView-jsp#002Esou312C04E7xt#002Ehistory#007C_7"/>
+  <tc-id id="MultiView-jsp#002EsouD0E678EFtext#002Ehistory#007C"/>
+  <tc-id id="services"/>
+  <tc-id id="navigatorTC"/>
+  <tc-id id="projectTab_tc"/>
+    </tc-list>
+</windowmanager>
