@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Wednesday, April 30, 2025 2:49:33 PM AEST
+>Log Session: Wednesday, April 30, 2025 4:06:46 PM AEST
 >System Info: 
   Product Version         = Apache NetBeans IDE 12.0
   Operating System        = Windows 10 version 10.0 running on amd64
@@ -730,8 +730,48 @@ INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network prox
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
 WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.home has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.j2seplatform.platformdefinition.Util.removeNBArtifacts(Util.java:337)
 INFO [glassfish]: Created GlassFish Server 4.1 instance with name GlassFish Server
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/javax.annotation-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/jaxb-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/webservices-api-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/bean-validator.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/cdi-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.batch-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.ejb-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.el.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.concurrent-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.concurrent.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.deploy-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.faces.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.inject.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.interceptor-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.jms-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.json.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.mail.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.management.j2ee-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.persistence.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.resource-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.security.auth.message-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.security.jacc-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jstl-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jstl.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.transaction-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.websocket-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.ws.rs-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.xml.registry-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.xml.rpc-api.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/jaxb-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/webservices-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/weld-osgi-bundle.jar in Library: Java-EE-GlassFish-v3-Prelude
+WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/mq/lib/jaxm-api.jar in Library: Java-EE-GlassFish-v3-Prelude
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 3 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 25 binary roots took: 518 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 64 binary roots took: 146 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\web took: 63 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\src\java took: 328 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\test took: 26 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 417 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 1 ms]
 Diagnostic information
 Input arguments:
 	-Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade
@@ -781,100 +821,25 @@ Heap memory usage: initial 508.0MB maximum 7212.5MB
 Non heap memory usage: initial 2.4MB maximum -1b
 Garbage collector: PS Scavenge (Collections=10 Total time spent=0s)
 Garbage collector: PS MarkSweep (Collections=3 Total time spent=0s)
-Classes: loaded=13642 total loaded=13642 unloaded 0
+Classes: loaded=14003 total loaded=14003 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 34,025,222,144
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\web took: 333 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\src\java took: 523 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\test took: 25 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 881 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/javax.annotation-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/jaxb-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/endorsed/webservices-api-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/bean-validator.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/cdi-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.batch-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.ejb-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.el.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.concurrent-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.concurrent.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.enterprise.deploy-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.faces.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.inject.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.interceptor-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.jms-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.json.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.mail.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.management.j2ee-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.persistence.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.resource-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.security.auth.message-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.security.jacc-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jstl-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.servlet.jsp.jstl.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.transaction-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.websocket-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.ws.rs-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.xml.registry-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/javax.xml.rpc-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/jaxb-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/webservices-osgi.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/glassfish/modules/weld-osgi-bundle.jar in Library: Java-EE-GlassFish-v3-Prelude
-WARNING [org.netbeans.modules.java.j2seplatform.libraries.J2SELibraryTypeProvider]: Wrong Classpath entry file:/C:/Users/lemon/GlassFish_Server/mq/lib/jaxm-api.jar in Library: Java-EE-GlassFish-v3-Prelude
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 48 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 36 binary roots took: 886 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\web took: 34 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\src\java took: 240 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\test took: 18 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 292 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.web.jsf.JSFConfigUtilities]: Total time spent = 52 ms
-INFO [org.netbeans.modules.web.jsf.JSFFrameworkProvider]: Total time spent=57 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 0 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 binary roots took: 337 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\web took: 23 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\src\java took: 160 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\lemon\OneDrive - UTS\UTS\UTS\Spring 2025\SoftwareDev\IoTBayApplication\IoTBay\test took: 17 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 200 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@376390f9[MultiFileObject@316a195c[Actions/Help/master-help.xml]]
-WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.BrokenDataShadow@1c89f3e9[MultiFileObject@70b29bca[Keymaps/NetBeans/D-BACK_QUOTE.shadow]]
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@1527ae37[MultiFileObject@46012f68[Actions/Help/master-help.xml]]
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.BrokenDataShadow@6cee21bf[MultiFileObject@564014f5[Keymaps/NetBeans/D-BACK_QUOTE.shadow]]
 WARNING [null]: Last record repeated again.
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 7 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 1 ms
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\reststubs.zip took: 61 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\domstubs.zip took: 51 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\corestubs.zip took: 50 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 162 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
-INFO [org.netbeans.modules.db.explorer.DatabaseConnection]: Unable to execute command:
-set schema 
-구문 오류: Encountered "<EOF>" at line 1, column 10.
-org.netbeans.lib.ddl.DDLException: Unable to execute command:
-set schema 
-구문 오류: Encountered "<EOF>" at line 1, column 10.
-	at org.netbeans.lib.ddl.impl.AbstractCommand.execute(AbstractCommand.java:204)
-	at org.netbeans.modules.db.explorer.node.DDLHelper.setDefaultSchema(DDLHelper.java:50)
-	at org.netbeans.modules.db.explorer.DatabaseConnection.setDefaultSchema(DatabaseConnection.java:651)
-[catch] at org.netbeans.modules.db.explorer.DatabaseConnection.doConnect(DatabaseConnection.java:909)
-	at org.netbeans.modules.db.explorer.DatabaseConnection.access$200(DatabaseConnection.java:78)
-	at org.netbeans.modules.db.explorer.DatabaseConnection$3.run(DatabaseConnection.java:963)
-	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
-	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
-	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
-	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
-INFO [null]: Last record repeated again.
-WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-websvc-editor-completion-WSCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
-WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [JavaHyperlinkProvider.instance, org.netbeans.modules.j2ee.persistence.editor.hyperlink.NamedQueryHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
-INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.hints.spiimpl.hints.HintsTask@3da1fde4, phase: RESOLVED, priority: 500] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 688 ms.
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/head_vs_working.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/head_vs_index.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/index_vs_working.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/file_view.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/logical_view.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/refresh.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/diff.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/get_clean.png
-WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/commit.png
-INFO [org.netbeans.modules.mercurial]: version: null
-INFO [org.netbeans.modules.subversion]: Cache not yet initialized, showing default actions
-INFO [org.netbeans.modules.subversion]: Finished indexing svn cache with 0 entries. Elapsed time: 0 ms.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 9 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\reststubs.zip took: 40 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\domstubs.zip took: 23 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Program Files\NetBeans-12.0\netbeans\webcommon\jsstubs\corestubs.zip took: 22 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 3 source roots took: 85 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+Failed to execute SQL Statement [CREATE TABLE Customers (
+    customer_id VARCHAR(8) PRIMARY KEY,
+    customer_name VARCHAR(50),
+    date_of_birth DATE,
+    phone_number VARCHAR(12),
+    address VARCHAR(100),
+    password VARCHAR(12),
+    email VARCHAR(50),
+    gender VARCHAR(10),
+)], cause: java.sql.SQLSyntaxErrorException: 구문 오류: Encountered ")" at line 10, column 1.
