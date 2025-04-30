@@ -843,3 +843,47 @@ Failed to execute SQL Statement [CREATE TABLE Customers (
     email VARCHAR(50),
     gender VARCHAR(10),
 )], cause: java.sql.SQLSyntaxErrorException: 구문 오류: Encountered ")" at line 10, column 1.
+WARNING [org.openide.filesystems.Ordering]: Found same position 1,800 for both Templates/PayaraResources and Templates/SunResources
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Classes/ marked with the position attribute: [Kotlin.kt], but some are: [Class.java, Interface.java, Enum.java, AnnotationType.java, Exception.java, package-info.java, module-info.java, JApplet.java, Applet.java, Main.java, Singleton.java, Empty.java, Package, ShellClass.java, Code]
+WARNING [org.openide.filesystems.Ordering]: Found same position 1,000 for both Templates/UnitTests/EmptyTestNGTest.java and Templates/UnitTests/JUnit5Suite.java
+WARNING [org.openide.filesystems.Ordering]: Found same position 120 for both Templates/Groovy/GroovyTrait.groovy and Templates/Groovy/_view.gsp
+WARNING [org.openide.filesystems.Ordering]: Not all children in Templates/Other/ marked with the position attribute: [File.java, TypeScriptDataObjectTemplate.ts], but some are: [SQLTemplate.sql, html.html, welcomePrimefaces.xhtml, welcomeRichfaces.xhtml, welcomeIcefaces.xhtml, xhtml.xhtml, javascript.js, reactjs.jsx, json.json, SpringXMLConfig.shadow, JnlpTemplate.jnlp, properties.properties, CascadeStyleSheet.css, Dockerfile, Project.xml, EmptyYAML.yml, EmptyINI.ini, CustomTask.java, NeonTemplate.neon, ApacheConfTemplate.conf, file, Folder]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CompletionProviderImpl.instance], but some are: [org-netbeans-modules-parsing-ui-WaitScanFinishedCompletionProvider.instance, org-netbeans-modules-editor-java-JavaCompletionProvider.instance, org-netbeans-modules-java-editor-javadoc-JavadocCompletionProvider.instance, org-netbeans-lib-editor-codetemplates-CodeTemplateCompletionProvider.instance, org-netbeans-modules-j2ee-persistence-editor-completion-JPACodeCompletionProvider.instance, org-netbeans-modules-websvc-editor-completion-WSCompletionProvider.instance, org-netbeans-modules-spellchecker-completion-WordCompletion.instance]
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996304286\dao.java
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.hints.spiimpl.hints.HintsTask@1771891f, phase: RESOLVED, priority: 500] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 149 ms.
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996314861\dao.java
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@1b29403b called start multiple times
+INFO [FaceletsLibrarySupport]: Invalidating facelets libraries due to a library descriptor change.
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996347353\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996348073\CustomerDAO.java
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [JavaHyperlinkProvider.instance, org.netbeans.modules.j2ee.persistence.editor.hyperlink.NamedQueryHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996485076\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996486108\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996486808\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996489841\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996527055\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996527854\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996637021\CustomerDAO.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745996651090\CustomerDAO.java
+WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/head_vs_working.png
+WARNING [org.openide.util.ImageUtilities]: Initial slashes in Utilities.loadImage deprecated (cf. #20072): /org/netbeans/modules/git/resources/icons/head_vs_index.png
+WARNING [org.netbeans.modules.progress.spi.InternalHandle]: Cannot call progress on a task that was never started at org.netbeans.modules.git.client.GitProgressSupport.setProgressMessage(GitProgressSupport.java:258)
+INFO [org.netbeans.modules.bugtracking.BugtrackingManager]: Loading stored repositories took 43 millis.
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745997223250\CustomerInsertTest.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\lemon\AppData\Local\Temp\vcs-1745996304285\vcs-1745997223962\CustomerInsertTest.java
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=CustomerInsertTest ]
+WARNING [org.netbeans.TopSecurityManager]: use of system property netbeans.user has been obsoleted in favor of InstalledFileLocator/Places at org.netbeans.modules.java.api.common.project.ActionProviderSupport.verifyUserPropertiesFile(ActionProviderSupport.java:927)
