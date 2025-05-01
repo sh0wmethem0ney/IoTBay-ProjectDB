@@ -11,6 +11,6 @@
   </constraints>
   <bounds x="256" y="336" width="588" height="518" />
   <frame state="0"/>
-    <active-tc  id="projectTabLogical_tc" />
+    <active-tc  id="services" />
     <empty-behavior permanent="true"/>
 </mode>

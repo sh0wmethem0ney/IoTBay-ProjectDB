@@ -3,7 +3,7 @@
 <windowmanager version="2.1">
     <main-window>
   <joined-properties
-   x="-7"
+   x="1273"
    y="0"
    width="1294"
    height="1407"
@@ -44,7 +44,14 @@
     <active-mode name="editor"/>
     <toolbar configuration="Standard" preferred-icon-size="24"/>
     <tc-list>
+  <tc-id id="SQL 5#002Esql"/>
+  <tc-id id="services"/>
   <tc-id id="projectTabLogical_tc"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC2xt#002Ehistory#007C_2"/>
+  <tc-id id="SQL 4#002Esql"/>
+  <tc-id id="MultiView-java#002Eso888FB94t#002Ehistory#007C_15"/>
+  <tc-id id="MultiView-java#002Eso10CA9CC1xt#002Ehistory#007C_1"/>
+  <tc-id id="SQL 1#002Esql"/>
   <tc-id id="Welcome"/>
   <tc-id id="MultiView-java#002Eso10CA9CC6xt#002Ehistory#007C_6"/>
   <tc-id id="MultiView-java#002Eso10CA9CC8xt#002Ehistory#007C_8"/>
@@ -52,7 +59,6 @@
   <tc-id id="MultiView-java#002Eso10CA9CC5xt#002Ehistory#007C_5"/>
   <tc-id id="MultiView-java#002Eso888FB95t#002Ehistory#007C_16"/>
   <tc-id id="MultiView-java#002Eso888FB97t#002Ehistory#007C_18"/>
-  <tc-id id="MultiView-java#002Eso888FB94t#002Ehistory#007C_15"/>
   <tc-id id="MultiView-java#002Eso10CA9CC7xt#002Ehistory#007C_7"/>
   <tc-id id="MultiView-java#002Eso888FB96t#002Ehistory#007C_17"/>
   <tc-id id="MultiView-jsp#002EsouF4549770t#002Ehistory#007C_11"/>
@@ -66,7 +72,6 @@
   <tc-id id="MultiView-jsp#002Esou312C04E8xt#002Ehistory#007C_8"/>
   <tc-id id="MultiView-jsp#002Esou312C04E7xt#002Ehistory#007C_7"/>
   <tc-id id="MultiView-jsp#002EsouD0E678EFtext#002Ehistory#007C"/>
-  <tc-id id="services"/>
   <tc-id id="navigatorTC"/>
   <tc-id id="projectTab_tc"/>
     </tc-list>

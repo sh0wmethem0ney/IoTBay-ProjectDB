@@ -12,3 +12,9 @@ os.arch=amd64
 os.version=10.0
 derby.system.home=C:\Users\lemon\AppData\Roaming\NetBeans\Derby
 데이터베이스 클래스 로더가 시작됨 - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Apr 30 17:18:04 AEST 2025: Derby 엔진 종료
+----------------------------------------------------------------
+Wed Apr 30 17:18:04 AEST 2025:
+클래스 로더 sun.misc.Launcher$AppClassLoader@1d44bcfa이(가) 있는 데이터베이스 디렉토리 C:\Users\lemon\AppData\Roaming\NetBeans\Derby\iotbaydb의 인스턴스 a816c00e-0196-854e-6aa3-ffffb98eb808 종료 
+----------------------------------------------------------------
