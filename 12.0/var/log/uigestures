@@ -207,3 +207,260 @@
   <key>LOG_WINDOW_DEACTIVATED</key>
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
+<record>
+  <date>2025-05-01T17:38:58</date>
+  <millis>1746085138581</millis>
+  <sequence>297</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>75</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>893</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:04</date>
+  <millis>1746085144146</millis>
+  <sequence>298</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>30</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[Connect...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.util.actions.NodeAction$DelegateAction,Connect...[delegate=org.netbeans.modules.db.explorer.action.ConnectAction,Connect...]</param>
+  <param>org.openide.util.actions.NodeAction$DelegateAction</param>
+  <param>Connect...</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:04</date>
+  <millis>1746085144845</millis>
+  <sequence>302</sequence>
+  <level>800</level>
+  <thread>83</thread>
+  <message>UI_CONNECT_DB</message>
+  <param>org.apache.derby.jdbc.ClientDriver</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:04</date>
+  <millis>1746085144845</millis>
+  <sequence>303</sequence>
+  <level>800</level>
+  <thread>83</thread>
+  <message>USG_DB_CONNECT</message>
+  <param>org.apache.derby.jdbc.ClientDriver</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:05</date>
+  <millis>1746085145203</millis>
+  <sequence>304</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>81</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>141655</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:05</date>
+  <millis>1746085145363</millis>
+  <sequence>311</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>81</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>160</param>
+  <param>TaskListIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>jsfCustomIndexer</param>
+  <param>3</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>3</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:14</date>
+  <millis>1746085154685</millis>
+  <sequence>313</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>30</thread>
+  <message>UI_ACTION_BUTTON_PRESS</message>
+  <key>UI_ACTION_BUTTON_PRESS</key>
+  <catalog>org.openide.awt.Bundle</catalog>
+  <param>org.openide.awt.Actions$MenuItem[View Data...]</param>
+  <param>org.openide.awt.Actions$MenuItem</param>
+  <param>org.openide.util.actions.NodeAction$DelegateAction,View Data...[delegate=org.netbeans.modules.db.explorer.action.ViewDataAction,View Data...]</param>
+  <param>org.openide.util.actions.NodeAction$DelegateAction</param>
+  <param>View Data...</param>
+</record>
+<record>
+  <date>2025-05-01T17:39:14</date>
+  <millis>1746085154696</millis>
+  <sequence>319</sequence>
+  <level>800</level>
+  <thread>78</thread>
+  <message>UI_EDITOR_OPENED</message>
+  <key>UI_EDITOR_OPENED</key>
+  <catalog>org.netbeans.modules.db.core.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:39:22</date>
+  <millis>1746085162096</millis>
+  <sequence>320</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:39:24</date>
+  <millis>1746085164038</millis>
+  <sequence>321</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:39:24</date>
+  <millis>1746085164381</millis>
+  <sequence>322</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>82</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>256</param>
+</record>
+<record>
+  <date>2025-05-01T17:53:08</date>
+  <millis>1746085988811</millis>
+  <sequence>323</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:53:09</date>
+  <millis>1746085989522</millis>
+  <sequence>324</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>82</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>44</param>
+</record>
+<record>
+  <date>2025-05-01T17:53:09</date>
+  <millis>1746085989894</millis>
+  <sequence>325</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:53:10</date>
+  <millis>1746085990993</millis>
+  <sequence>326</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>82</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>50</param>
+</record>
+<record>
+  <date>2025-05-01T17:53:15</date>
+  <millis>1746085995468</millis>
+  <sequence>327</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:53:15</date>
+  <millis>1746085995526</millis>
+  <sequence>328</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>92</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>50</param>
+</record>
+<record>
+  <date>2025-05-01T17:53:58</date>
+  <millis>1746086038422</millis>
+  <sequence>329</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:53:58</date>
+  <millis>1746086038487</millis>
+  <sequence>330</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>82</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>54</param>
+</record>
+<record>
+  <date>2025-05-01T17:53:59</date>
+  <millis>1746086039352</millis>
+  <sequence>331</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2025-05-01T17:54:00</date>
+  <millis>1746086040770</millis>
+  <sequence>332</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>82</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>238</param>
+</record>

@@ -9130,3 +9130,12 @@
   <message>USG_PROJECT_OPEN</message>
   <param>org.netbeans.modules.web.project.WebProject</param>
 </record>
+<record>
+  <date>2025-05-01T17:39:04</date>
+  <millis>1746085144845</millis>
+  <sequence>303</sequence>
+  <level>800</level>
+  <thread>83</thread>
+  <message>USG_DB_CONNECT</message>
+  <param>org.apache.derby.jdbc.ClientDriver</param>
+</record>

@@ -20,7 +20,7 @@
     email VARCHAR(50),
     gender VARCHAR(10)
 )</sql>
-<sql date="1745997307533" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.CUSTOMERS FETCH FIRST 100 ROWS ONLY</sql>
+<sql date="1746085154912" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.CUSTOMERS FETCH FIRST 100 ROWS ONLY</sql>
 <sql date="1745992999217" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE Customers (
     customer_id INT(8) PRIMARY KEY,
     customer_name VARCHAR(50),
