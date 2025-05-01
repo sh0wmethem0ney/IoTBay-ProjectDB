@@ -9139,3 +9139,59 @@
   <message>USG_DB_CONNECT</message>
   <param>org.apache.derby.jdbc.ClientDriver</param>
 </record>
+<record>
+  <date>2025-05-01T18:12:01</date>
+  <millis>1746087121248</millis>
+  <sequence>367</sequence>
+  <logger>org.netbeans.ui.metrics.web.project</logger>
+  <level>800</level>
+  <thread>110</thread>
+  <message>USG_PROJECT_BROWSER</message>
+  <key>USG_PROJECT_BROWSER</key>
+  <catalog>org.netbeans.modules.web.common.api.Bundle</catalog>
+  <param>org.netbeans.modules.web.project</param>
+  <param>default</param>
+  <param>UNKNOWN</param>
+</record>
+<record>
+  <date>2025-05-01T20:02:40</date>
+  <millis>1746093760714</millis>
+  <sequence>474</sequence>
+  <logger>org.netbeans.ui.metrics.bugtracking</logger>
+  <level>800</level>
+  <thread>30</thread>
+  <message>USG_ISSUE_TRACKING_REPOSITORY</message>
+  <param>NB_LOCAL_TASKS</param>
+  <param>OTHER</param>
+</record>
+<record>
+  <date>2025-05-01T20:15:51</date>
+  <millis>1746094551502</millis>
+  <sequence>1198</sequence>
+  <logger>org.netbeans.ui.metrics.vcs</logger>
+  <level>800</level>
+  <thread>1153</thread>
+  <message>USG_VCS_ACTION</message>
+  <param>Git</param>
+</record>
+<record>
+  <date>2025-05-01T20:15:51</date>
+  <millis>1746094551533</millis>
+  <sequence>1199</sequence>
+  <logger>org.netbeans.ui.metrics.vcs</logger>
+  <level>800</level>
+  <thread>1251</thread>
+  <message>USG_VCS_REPOSITORY</message>
+  <param>GIT</param>
+  <param>GITHUB</param>
+</record>
+<record>
+  <date>2025-05-01T20:16:23</date>
+  <millis>1746094583059</millis>
+  <sequence>1218</sequence>
+  <logger>org.netbeans.ui.metrics.vcs</logger>
+  <level>800</level>
+  <thread>1237</thread>
+  <message>USG_VCS_ACTION</message>
+  <param>COMMIT_HOOK_GIT</param>
+</record>
