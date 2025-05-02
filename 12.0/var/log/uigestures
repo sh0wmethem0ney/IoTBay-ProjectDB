@@ -46415,3 +46415,26 @@
    <more>0</more>
   </exception>
 </record>
+<record>
+  <date>2025-05-02T22:53:28</date>
+  <millis>1746190408771</millis>
+  <sequence>543</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>146</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>355</param>
+</record>
+<record>
+  <date>2025-05-02T22:53:36</date>
+  <millis>1746190416248</millis>
+  <sequence>544</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>30</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
