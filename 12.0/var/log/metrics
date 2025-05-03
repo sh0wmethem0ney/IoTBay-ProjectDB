@@ -12180,3 +12180,12 @@
   <message>USG_DB_CONNECT</message>
   <param>org.apache.derby.jdbc.ClientDriver</param>
 </record>
+<record>
+  <date>2025-05-03T16:58:36</date>
+  <millis>1746255516561</millis>
+  <sequence>2015</sequence>
+  <level>800</level>
+  <thread>1358</thread>
+  <message>USG_DB_CONNECT</message>
+  <param>org.apache.derby.jdbc.ClientDriver</param>
+</record>
