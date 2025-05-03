@@ -44,7 +44,7 @@
     gender VARCHAR(10),
     order_id INT
 )</sql>
-<sql date="1746279633604" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.USERS FETCH FIRST 100 ROWS ONLY</sql>
+<sql date="1746281524649" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.USERS FETCH FIRST 100 ROWS ONLY</sql>
 <sql date="1745993278768" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE Customers (
     customer_id VARCHAR(8) PRIMARY KEY,
     customer_name VARCHAR(50),

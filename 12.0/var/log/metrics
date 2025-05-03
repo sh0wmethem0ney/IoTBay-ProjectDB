@@ -13208,3 +13208,36 @@
   <message>USG_VCS_ACTION</message>
   <param>COMMIT_HOOK_GIT</param>
 </record>
+<record>
+  <date>2025-05-04T00:26:09</date>
+  <millis>1746282369733</millis>
+  <sequence>1882</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>662</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-java</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2025-05-04T00:26:09</date>
+  <millis>1746282369734</millis>
+  <sequence>1883</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>662</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-jsp</param>
+  <param>1</param>
+</record>
+<record>
+  <date>2025-05-04T00:26:09</date>
+  <millis>1746282369734</millis>
+  <sequence>1884</sequence>
+  <logger>org.netbeans.ui.metrics.editor</logger>
+  <level>800</level>
+  <thread>662</thread>
+  <message>USG_EDITOR_MIME_TYPE</message>
+  <param>text/x-sql</param>
+  <param>5</param>
+</record>
