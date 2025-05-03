@@ -10,6 +10,18 @@
     email VARCHAR(50),
     gender VARCHAR(10),
 )</sql>
+<sql date="1746249400051" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE USERS (
+    user_id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+    name VARCHAR(50) NOT NULL,
+    date_of_birth DATE NOT NULL,
+    phone_number VARCHAR(15) NOT NULL,
+    address VARCHAR(100) NOT NULL,
+    password VARCHAR(20) NOT NULL,
+    email VARCHAR(50) NOT NULL UNIQUE,
+    gender VARCHAR(10),
+    role CHAR(1) NOT NULL,
+    order_id INT
+)</sql>
 <sql date="1745992945450" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE Customers (
     customer_id INT(8) PRIMARY KEY,
     customer_name VARCHAR(50),
@@ -20,7 +32,7 @@
     email VARCHAR(50),
     gender VARCHAR(10)
 )</sql>
-<sql date="1746190210819" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.CUSTOMERS FETCH FIRST 100 ROWS ONLY</sql>
+<sql date="1746194945556" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.CUSTOMERS FETCH FIRST 100 ROWS ONLY</sql>
 <sql date="1745992999217" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE Customers (
     customer_id INT(8) PRIMARY KEY,
     customer_name VARCHAR(50),
@@ -32,6 +44,7 @@
     gender VARCHAR(10),
     order_id INT
 )</sql>
+<sql date="1746250511435" url="jdbc:derby://localhost:1527/iotbaydb;create=true">SELECT * FROM APP.USERS FETCH FIRST 100 ROWS ONLY</sql>
 <sql date="1745993278768" url="jdbc:derby://localhost:1527/iotbaydb;create=true">CREATE TABLE Customers (
     customer_id VARCHAR(8) PRIMARY KEY,
     customer_name VARCHAR(50),

@@ -1,0 +1,12 @@
+CREATE TABLE USERS (
+    user_id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1),
+    name VARCHAR(50) NOT NULL,
+    date_of_birth DATE NOT NULL,
+    phone_number VARCHAR(15) NOT NULL,
+    address VARCHAR(100) NOT NULL,
+    password VARCHAR(20) NOT NULL,
+    email VARCHAR(50) NOT NULL UNIQUE,
+    gender VARCHAR(10),
+    role CHAR(1) NOT NULL,
+    order_id INT
+);
